@@ -4,3 +4,6 @@
 - restarting/enabling httpd.
 - adding virtualhost
 - adding php support
+- mysql installed
+- mysql restarted
+- changed password

@@ -1,3 +1,5 @@
 ---
 httpd_port: 8080
 httpd_domain: wwww.example.com
+mysql_port: 1234
+mysql_root: mysqlrootpassword
