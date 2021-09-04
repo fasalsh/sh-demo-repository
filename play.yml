@@ -3,3 +3,4 @@
 - Creating httpd.conf from template.
 - restarting/enabling httpd.
 - adding virtualhost
+- adding php support
